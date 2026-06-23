@@ -1,0 +1,43 @@
+{
+    "id": "heromcnetwork",
+    "name": "HeroMC",
+    "description": "Play and become a hero.",
+    "addresses": [
+        "heromc.cc",
+    ],
+    "primaryAddress": "heromc.cc",
+    "minecraftVersions": [
+        "1.19.4*",
+        "1.21.11*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#ffff00",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en" "it"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryGameType": "PvP",
+    "website": "https://www.heromc.cc",
+    "store": "https://store.heromc.cc",
+    "compliance": {
+        "privacyPolicy": "https://www.heromc.cc/privacy",
+        "termsOfService": "https://www.heromc.cc/terms",
+        "rules": "https://www.heromc.cc/rules"
+    },
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "tiktok": "heromc.cc",
+        "youtube": "@heromcofficial",
+        "discord": "https://discord.heromc.cc"
+    },
+    "crossplay": true
+}
